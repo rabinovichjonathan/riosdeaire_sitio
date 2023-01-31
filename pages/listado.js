@@ -19,10 +19,10 @@ export default function Listado(){
             <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <Image className="d-block w-100" width="500" height="600" src="/../public/riosdeaire.jpeg" alt="First slide" />
+                        <Image className="d-block w-100" width="500" height="600" src="riosdeaire.jpeg" alt="First slide" />
                     </div>
                     <div className="carousel-item">
-                        <Image className="d-block w-100" width="500" height="600" src="/../public/riosdeaire2.png" alt="First slide" />
+                        <Image className="d-block w-100" width="500" height="600" src="riosdeaire2.png" alt="First slide" />
                     </div>
                 </div>
                 <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
