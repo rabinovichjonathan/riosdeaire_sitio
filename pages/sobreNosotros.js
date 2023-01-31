@@ -9,7 +9,7 @@ export default function SobreNosotros() {
             <div className="contenedorCanciones">
                 <h1 className="mb-5">Sobre nosotros</h1>
                 <div className="contenedorImagenYtexto d-inline-flex">
-                    <Image className="shadow-lg p-3 mb-5 bg-white rounded" src="/../public/riosdeaire3.jpeg" height={300} width={500}></Image>
+                    <Image className="shadow-lg p-3 mb-5 bg-white rounded" src="/assets/img/riosdeaire3.jpeg" height={300} width={500}></Image>
                     <p className="textoSobreNosotros">Somos un grupo de amigos que se conoció estudiando música en la Escuela de Música Popular de Avellaneda y que decidió desarrollar un proyecto musical que contemple diversos estilos musicales propios de Argentina. Buscamos expresar nuestra creatividad en forma de canciones que nos hagan vibrar en consonancia con los sonidos del Río de la Plata.</p>
                 </div>
                     
