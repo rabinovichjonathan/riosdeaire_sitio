@@ -1,0 +1,77 @@
+html,
+body {
+    font-family: 'Milonga';
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Milonga&display=swap');
+
+.fecha{
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    display: flex;
+    margin-top: 2%;
+}
+
+.fecha h1,h2,h3{
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 4%;
+    text-align: center;
+    align-items: center;
+}
+
+.separadorFechas{
+   background-color: gainsboro;
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+    height:1px;
+}
+.buttonVerMas{
+    margin-left: 10%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 1%;
+    align-items: right;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+
+
+.iconos :hover{
+      color: #f0ad4e;
+}
+.iconos i{
+    padding-left: 1%;
+    font-size:200%;
+    color:black;
+}
+
+.tituloProximasFechas{
+    margin-left: 5%;
+    
+}
+
+.contenedorCanciones{
+    margin-left: 2%;
+}
+
+.textoSobreNosotros{
+    width: 50%;
+    font-size:x-large;
+    margin-left: 2%;
+}
+#map { height: 180px; }
+
+.card-img-top {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+.card-img-top:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=40);
+}
+

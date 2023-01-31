@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE `Cancion` ADD COLUMN `album` VARCHAR(191) NULL,
+    ADD COLUMN `anio` INTEGER NULL;

@@ -1,0 +1,4 @@
+-- AlterTable
+ALTER TABLE `Fecha` ADD COLUMN `entrada` VARCHAR(191) NULL,
+    ADD COLUMN `hora` VARCHAR(191) NULL,
+    ADD COLUMN `imagen` VARCHAR(191) NULL;
