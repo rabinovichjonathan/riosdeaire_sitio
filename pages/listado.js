@@ -1,5 +1,5 @@
 import useRios from "../hooks/useRios"
-import "../public/riosdeaire.jpeg"
+//import "../public/riosdeaire.jpeg"
 import Image from "next/image"
 import Layout from "../layout/Layout"
 import Modal from '../components/Modal'
