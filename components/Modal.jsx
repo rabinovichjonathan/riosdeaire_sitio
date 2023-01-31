@@ -22,7 +22,7 @@ const Modal = ({id, nombre, fecha, lugar, hora, entrada, imagen, localidad, codi
                             </button>
                         </div>
                         <div className="modal-body">
-                        <Image className="card-img mb-2" src={`/../public/assets/img/${imagen}`} height={300} width={200} alt={`foto de ${nombre}`} />
+                        <Image className="card-img mb-2" src={`/assets/img/${imagen}`} height={300} width={200} alt={`foto de ${nombre}`} />
                         
                         <div className="d-flex mt-5">
                             <ul>
